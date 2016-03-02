@@ -1,0 +1,11 @@
+D:\PROJECTS\test\WatchTheKeyboard\WatchTheKeyboard\bin\Debug\Gma.System.MouseKeyHook.dll
+D:\PROJECTS\test\WatchTheKeyboard\WatchTheKeyboard\obj\Debug\WatchTheKeyboard.VirtualKeyBoard.resources
+D:\PROJECTS\test\WatchTheKeyboard\WatchTheKeyboard\obj\Debug\KeyBoardAssistant.Properties.Resources.resources
+D:\PROJECTS\test\WatchTheKeyboard\WatchTheKeyboard\obj\Debug\KeyBoardAssistant.SmallKeyBoard.resources
+D:\PROJECTS\test\WatchTheKeyboard\WatchTheKeyboard\obj\Debug\KeyBoardAssistant.csproj.GenerateResource.Cache
+D:\PROJECTS\test\WatchTheKeyboard\WatchTheKeyboard\bin\Debug\KeyBoardAssistant.exe.config
+D:\PROJECTS\test\WatchTheKeyboard\WatchTheKeyboard\bin\Debug\KeyBoardAssistant.exe
+D:\PROJECTS\test\WatchTheKeyboard\WatchTheKeyboard\bin\Debug\KeyBoardAssistant.pdb
+D:\PROJECTS\test\WatchTheKeyboard\WatchTheKeyboard\obj\Debug\KeyBoardAssistant.exe
+D:\PROJECTS\test\WatchTheKeyboard\WatchTheKeyboard\obj\Debug\KeyBoardAssistant.pdb
+D:\PROJECTS\test\WatchTheKeyboard\WatchTheKeyboard\obj\Debug\KeyBoardAssistant.csprojResolveAssemblyReference.cache
